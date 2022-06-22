@@ -98,7 +98,8 @@
     height: 50px;
     width: 100px;
     border-radius: 5px;
-    background-color: #33C3F0;
+    color: white;
+    background-color: blue;
     border: none;
 }
 
@@ -117,7 +118,7 @@
 }
 
 .bookTile {
-    border: 1px solid grey;
+    border: 1px solid red;
     display: grid;
     grid-template-rows: 3fr 1fr 1fr 1fr;
     border-radius: 10px;
@@ -172,6 +173,6 @@
 }
 
 .footer i {
-    color: black;
+    color: red;
     margin-left: 5px;
 }
